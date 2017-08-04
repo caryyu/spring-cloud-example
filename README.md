@@ -1,6 +1,6 @@
 # spring-cloud-example
 ## eureka-server
-服务注册中心，可以使用其它方案代替（zookeeper/counsel）
+服务注册中心，可以使用其它方案代替（zookeeper/consul）
 ## hystrix-dashboard 
 断路由/熔断器监控面板
 ## service-doorlock
